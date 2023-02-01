@@ -1,2 +1,2 @@
-# Netthex-inc
+# netthex-social
 My enterprises are best
